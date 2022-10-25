@@ -1,0 +1,101 @@
+Dataset references, background or analyses:
+
+ 1. Myeloma
+     Krall, J. M., Uthoff, V. A. and Harley, J. B. (1975). A step-up procedure for selecting variables
+     associated with survival, Biometrics 31: 49-57.
+
+2. Freiburg DNA breast cancer
+     Pfisterer, J., Kommoss, F., Sauerbrei, W., Menzel, D., Kiechle, M., Giese, E., Hilgarth, M. and
+     Pfleiderer, A. (1995). DNA flow cytometry in node positive breast cancer: Prognostic value
+     and correlation to morphological and clinical factors, Analytical and Quantitative Cytology and
+     Histology 17: 406-412
+
+3. Cervix cancer   
+     Collett, D. (2003). Modelling binary data, second edn, Chapman & Hall/CRC, Boca Raton.
+
+4. Nerve conduction (no reference)
+
+5. Triceps skinfold thickness
+     Cole, T. J. and Green, P. J. (1992). Smoothing reference centile curves: the LMS method and penalized
+     likelihood, Statistics in Medicine 11: 1305-1319.
+
+6. Diabetes
+     Sockett, E. B., Daneman, D., Clarson, C. and Ehrich, R. M. (1987). Factors affecting and patterns
+     of residual insulin secretion during first year of Type I (insulin-dependent) diabetes mellitus in
+     children, Diabetologia 30: 453–459.
+
+7. Advanced prostate cancer
+      Byar, D. P. and Green, S. B. (1980). The choice of treatment for cancer patients based on covariate information:
+      application to prostate cancer, Bulletin du Cancer 67: 477–490.
+
+8. Quit smoking study
+      Cohen, J., Cohen, P., West, S. G. and Aiken, L. S. (2003). Applied Multiple Regression/Correlation
+      Analysis for the Behavioral Sciences, third edn, Lawrence Erlbaum Associates, New Jersey.
+
+9. Breast cancer diagnosis
+      Sauerbrei, W., Madjar, H. and Prömpeler, H. J. (1998). Differentiation of benign and malignant breast
+      tumors by logistic regression and a classification tree using Doppler flow signals, Methods of
+      Information in Medicine 37: 226–234.
+
+10. Boston housing
+       Harrison, D. and Rubinfeld, D. L. (1978). Hedonic house prices and the demand for clear air, Journal
+       of Environmental Economics and Management 5: 81-102.
+
+11. Pima Indians
+      Royston, P. (2005). Multiple imputation of missing values: update of ICE, Stata Journal 5: 527-536.
+
+12. Rotterdam breast cancer
+      Sauerbrei, W., Royston, P. and Look, M. (2007). A new proposal for multivariable modelling
+      of time-varying effects in survival data based on fractional polynomial time-transformation,
+      Biometrical Journal 49: 453-473.
+
+13. Fetal growth
+      Altman, D. G. and Chitty, L. S. (1993). Design and analysis of studies to derive charts of fetal size,
+      Ultrasound in Obstetrics and Gynecology 3: 378-384
+
+14. Cholesterol dataset (not available)
+     Mann, J. I., Lewis, B., Shepherd, J.,Winder, A. F., Fenster, S., Rose, L. and Morgan, B. (1988). Blood
+     lipid concentrations and other cardiovascular risk factors: distribution, prevalence and detection in
+     Britain, British Medical Journal 296: 1702–1706.
+
+15. Research body fat
+      Luke, A., Durazo-Arvizu, R. and others (1997). Relation between body mass index and body fat in
+      black population samples from Nigeria, Jamaica, and the United States, American Journal of
+      Epidemiology 145: 620-628.
+
+16. GBSG breast cancer
+      Sauerbrei, W. and Royston, P. (1999). Building multivariable prognostic and diagnostic models:
+      transformation of the predictors using fractional polynomials, Journal of the Royal Statistical
+      Society, Series A 162: 71-94.
+
+17. Educational body fat
+      Johnson, R. W. (1996). Fitting percentage of body fat to simple body measurements, Journal of
+      Statistics Education 4(1).
+
+18. Glioma
+      Sauerbrei, W. and Schumacher, M. (1992). A bootstrap resampling procedure for model building:
+      application to the Cox regression model, Statistics in Medicine 11: 2093–2109.
+
+19. Prostate cancer
+      Stamey, T. A., Kabalin, J. N., McNeal, J. E., Johnstone, I. M., Freiha, F., Redwine, E. A. and Yang, N.
+      (1989). Prostate specific antigen in the diagnosis and treatment of adenocarcinoma of the
+      prostate. ii. radical prostatectomy treated patients, Journal of Urology 141: 1076–1083.
+
+20. Whitehall 1
+     Royston, P., Ambler, G. and Sauerbrei, W. (1999). The use of fractional polynomials to model
+     continuous risk variables in epidemiology, International Journal of Epidemiology 28: 964-974.
+
+21. PBC
+     Fleming, T. R. and Harrington, D. P. (1991). Counting Processes and Survival Analysis, JohnWiley &
+     Sons, Ltd/Inc., NewYork.
+
+22. Oral cancer
+      Rosenberg, P. S., Katki, H., Swanson, C. A., Brown, L. M., Wacholder, S. and Hoover, R. N. (2003).
+      Quantifying epidemiologic risk factors using nonparametric regression: model selection remains the
+      greatest challenge, Statistics in Medicine 22: 3369-3381.
+
+23. Kidney cancer
+      Royston, P., Sauerbrei, W. and Ritchie, A. W. S. (2004). Is treatment with interferon-α effective in
+      all patients with metastatic renal carcinoma? A new approach to the investigation of interactions,
+      British Journal of Cancer 23: 794–799.
+
